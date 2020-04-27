@@ -13,8 +13,8 @@ function App() {
           please upload a file
         </p>
       </header>
-      <FileSelector></FileSelector>
-    </div>
+      <FileSelector/>    
+      </div>
   );
 }
 

@@ -1,0 +1,4 @@
+.file-select-container{
+	display: flex;
+	flex-direction: column;
+}
